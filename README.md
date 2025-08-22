@@ -1,19 +1,5 @@
 # BridgeLabz 3rd Year – Core Java Practice
 
-## 📂 Repository Structure
-bridgelabz_3rd_year/
-└── Programming Elements Practices/
-├── Level1/ → 16 Questions
-└── Level2/ → 8 Questions
-
-
-- **Branch Used**: `core-java`  
-- **Folder Structure**:
-  - `Programming Elements Practices/Level1` → 16 basic Java practice programs  
-  - `Programming Elements Practices/Level2` → 8 slightly advanced practice programs  
-
----
-
 ## 📘 Level 1 – Topics Covered (16 Questions)
 
 1. Java Comments  
