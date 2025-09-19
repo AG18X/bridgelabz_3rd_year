@@ -1,7 +1,6 @@
 # 📘 String Practices
 
 Assignments focused on Java Strings, Escape Sequences, String arrays, and Exception Handling.
-
 ---
 
 ### Level 1 – Topics Covered (10 Questions)
